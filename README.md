@@ -30,11 +30,6 @@
 pip install requests beautifulsoup4 selenium
 ```
 
-3. 下载与您Chrome浏览器版本匹配的ChromeDriver：
-   - 查看Chrome浏览器版本：点击右上角三点菜单 -> 帮助 -> 关于Google Chrome
-   - 下载地址：https://chromedriver.chromium.org/downloads
-   - 将下载的chromedriver.exe放在脚本同目录下
-
 ## 使用方法
 
 ### 1. 使用批处理文件（推荐）
